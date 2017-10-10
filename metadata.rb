@@ -1,0 +1,6 @@
+name             "java-osx"
+maintainer       "Jay Flowers"
+maintainer_email "jay.flowers@gmail.com"
+description      "Installs/Configures java"
+long_description "Installs/Configures java"
+version          "0.1.1"
